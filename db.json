@@ -1,0 +1,154 @@
+{
+    "priducts":[
+        {
+            "id": 1,
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/369752a.jpg?ts=1658731562",
+            "name":"Kiran Watermelon (Tarbuj)",
+            "price":43,
+            "countity":"1 piece (2 kg - 3 kg)"
+        },
+        {
+            "id": 2,
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/394525a.jpg?ts=1610740513",
+            "name":"Kiwi",
+            "price":100,
+            "countity":"3 pieces"
+        },
+        {
+            "id": 3,
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/352443a.jpg?ts=1683354362",
+            "name":"Tender Coconut (Nariyal Pani)",
+            "price":60,
+            "countity":"1 pieces"
+        },
+        {
+            "id": 4,
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/364304a.jpg?ts=1681113077",
+            "name":"Sweet Lime (Mosambi)",
+            "price":60,
+            "countity":"500 g - 700 g"
+        },
+        {
+            "id": 5,
+            "image":"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=50,metadata=none,w=180/app/images/products/sliding_image/321169a.jpg?ts=1664175742",
+            "name":"Pomegranate",
+            "price":140,
+            "countity":"2 pieces (350 g - 450 g)"
+        },{
+            "id": 6,
+            "image":"http://onlinekisans.com/assets/product_image/e48ef9b778819610c41b706a5132f7b9.jpg",
+            "name":"Brinjal - Varikatri /बैंगन गुलाबी",
+            "price":25,
+            "countity":"250 Gm"
+        },{
+            "id": 7,
+            "image":"http://onlinekisans.com/assets/product_image/d28cdc47fc47f2ac72beba4fabe9b9e1.jpg",
+            "name":"Garlic - Peeled",
+            "price":30,
+            "countity":"250 Gm"
+        },{
+            "id": 8,
+            "image":"http://onlinekisans.com/assets/product_image/d4befa5653cf56f75b1bd944bc7f5604.jpg",
+            "name":"Carrot - Red/गाजर",
+            "price":18,
+            "countity":"250 Gm"
+        },{
+            "id": 9,
+            "image":"http://onlinekisans.com/assets/product_image/b65dd6621c92c289318d0f97cf31914d.jpg",
+            "name":"Big Brinjal /भरता बैंगन",
+            "price":25,
+            "countity":"1 pieces(400g - 600g)"
+        },{
+            "id": 10,
+            "image":"http://onlinekisans.com/assets/product_image/62f850e9f9218dacb850442a0c0a3b7a.jpg",
+            "name":"Small Brinjal Black / छोटा बैंगन काले",
+            "price":15,
+            "countity":"250 Gm"
+        },{
+            "id": 11,
+            "image":"http://onlinekisans.com/assets/product_image/a8c94e114b175d51e6998283bce83fc8.jpg",
+            "name":"Maithi / मैथी",
+            "price":15,
+            "countity":"500 Gram"
+        },{
+            "id": 12,
+            "image":"http://onlinekisans.com/assets/product_image/12905d3a93af51de66e4635800f0c497.jpg",
+            "name":"yello Chili Large/ पीली मिर्ची",
+            "price":20,
+            "countity":"250 Gram"
+        },{
+            "id": 13,
+            "image":"http://onlinekisans.com/assets/product_image/889e1c9d98cf25534a383bc8cae5411b.jpg",
+            "name":"Cucumber / खीरा",
+            "price":25,
+            "countity":"500 Gram"
+        },{
+            "id": 14,
+            "image":"http://onlinekisans.com/assets/product_image/a05a052563ccee1ff83a0edfd966c16e.jpg",
+            "name":"Sponge Gourd / गिलकी",
+            "price":60,
+            "countity":"2 kg"
+        },{
+            "id": 15,
+            "image":"http://onlinekisans.com/assets/product_image/0ddaae4f7d08474879221a24d93ae3e3.jpg",
+            "name":"Baby Potato / बेबी पोटैटो",
+            "price":20,
+            "countity":"500 Gram"
+        },{
+            "id": 16,
+            "image":"http://onlinekisans.com/assets/product_image/e41facff9e4d04c04b82b2877a375afd.jpg",
+            "name":"Drumsticks / सुरजना की फली",
+            "price":30,
+            "countity":"250 Gm"
+        },{
+            "id": 17,
+            "image":"http://onlinekisans.com/assets/product_image/02371b4ec4c5948560cb6cfc149cd643.jpg",
+            "name":"Grapes / अंगूर",
+            "price":40,
+            "countity":"500 Gram"
+        },{
+            "id": 18,
+            "image":"http://onlinekisans.com/assets/product_image/1b0fa9bc4a66031fc997b1148bdeb500.jpg",
+            "name":"Papaya / पपीता",
+            "price":50,
+            "countity":"1 pieces (1200g - 1700g)"
+        },{
+            "id": 19,
+            "image":"http://onlinekisans.com/assets/product_image/c24c9df582ddb1c6208d2f74d7c41210.jpg",
+            "name":"Pomegranate / अनार",
+            "price":70,
+            "countity":"500 Gram"
+        },{
+            "id": 20,
+            "image":"http://onlinekisans.com/assets/product_image/800573574d6cf7c8c601ddbe73176cff.jpg",
+            "name":"Apple royal gala/ सेब",
+            "price":90,
+            "countity":"500 Gram"
+        },{
+            "id": 21,
+            "image":"http://onlinekisans.com/assets/product_image/fa4a08fbe181f233b3ecc41cee1ca999.jpg",
+            "name":"Banana / केला",
+            "price":20,
+            "countity":"6 Nag"
+        },{
+            "id": 22,
+            "image":"http://onlinekisans.com/assets/product_image/ecbb94e37018355709ee7e3069c44397.jpg",
+            "name":"Strawberry",
+            "price":60,
+            "countity":"250 Gram"
+        },{
+            "id":23,
+            "image":"http://onlinekisans.com/assets/product_image/b263a4151acb2373e841986d4f2105d1.jpg",
+            "name":"Guava",
+            "price":45,
+            "countity":"500 Gram"
+
+        },{
+            "id":24,
+            "image":"http://onlinekisans.com/assets/product_image/d6a80e0a496396c1922480ecfc9a4d59.jpg",
+            "name":"Pineapple / अनानास",
+            "price":50,
+            "countity":"1 pieces(400g - 600g)"
+        }
+    ]
+}

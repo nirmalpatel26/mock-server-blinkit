@@ -150,5 +150,49 @@
             "price":50,
             "countity":"1 pieces(400g - 600g)"
         }
+        
+    ],
+    "register":[
+        {
+            "username":"admin",
+            "password":"admin",
+            "id": 1,
+            "email":"admin@gmail.com",
+            "gender":"male",
+            "description":"Web developer"
+        },
+         {
+            "username":"nirmal",
+            "password":"nirmal",
+            "id": 2,
+            "email":"nirmal@gmail.com",
+            "gender":"male",
+            "description":"Web developer"
+        },
+         {
+            "username":"dhanshree",
+            "password":"dhanshree",
+            "id": 3,
+            "email":"dhanshree@gmail.com",
+            "gender":"female",
+            "description":"Web developer"
+        },
+         {
+            "username":"abhijit",
+            "password":"abhijit",
+            "id": 4,
+            "email":"abhijit@gmail.com",
+            "gender":"male",
+            "description":"Web developer"
+        },
+        {
+            "username":"khushboo",
+            "password":"khushboo",
+            "id": 5,
+            "email":"khushboo@gmail.com",
+            "gender":"female",
+            "description":"Web developer"
+        }
     ]
+
 }

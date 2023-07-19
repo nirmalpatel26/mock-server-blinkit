@@ -170,26 +170,26 @@
             "description":"Web developer"
         },
          {
-            "username":"dhanshree",
-            "password":"dhanshree",
+            "username":"ravitheja",
+            "password":"ravitheja",
             "id": 3,
-            "email":"dhanshree@gmail.com",
-            "gender":"female",
-            "description":"Web developer"
-        },
-         {
-            "username":"abhijit",
-            "password":"abhijit",
-            "id": 4,
-            "email":"abhijit@gmail.com",
+            "email":"ravitheja@gmail.com",
             "gender":"male",
             "description":"Web developer"
         },
+         {
+            "username":"anshul",
+            "password":"anshul",
+            "id": 4,
+            "email":"anshul@gmail.com",
+            "gender":"female",
+            "description":"Web developer"
+        },
         {
-            "username":"khushboo",
-            "password":"khushboo",
+            "username":"sarita",
+            "password":"sarita",
             "id": 5,
-            "email":"khushboo@gmail.com",
+            "email":"sarita@gmail.com",
             "gender":"female",
             "description":"Web developer"
         }
